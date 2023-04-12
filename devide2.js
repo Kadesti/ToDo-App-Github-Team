@@ -1,0 +1,1 @@
+const devide2 = a => a / 2;
