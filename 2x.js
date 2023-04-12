@@ -1,1 +1,1 @@
-const multiple = (a, b) => a * 2
+const multiple = (a) => a * 2
